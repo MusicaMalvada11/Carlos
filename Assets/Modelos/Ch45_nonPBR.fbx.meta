@@ -3,7 +3,32 @@ guid: 8fe4286fce74e554795cd13422c4fe4e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ch45_1001_Diffuse
+    second: {fileID: 2800000, guid: 6dbcd002836cdbc4b94facbce1bb0b34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ch45_1001_Emissive
+    second: {fileID: 2800000, guid: f7629392e510d7845b18a3f64a3f2255, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ch45_1001_Glossiness
+    second: {fileID: 2800000, guid: ff3b14c9becf3334ea90d543add0b711, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ch45_1001_Normal
+    second: {fileID: 2800000, guid: 58e60b3c54de3d44eb3bb5b4b03e6397, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ch45_1001_Specular
+    second: {fileID: 2800000, guid: fcb4e1a3696d19e499bfcb9223eb6a5a, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -80,6 +105,8 @@ ModelImporter:
   referencedClips:
   - 7754504ecfc33c2428373688c7554299
   - fa961e64e45c94f4c9df5603344889a5
+  - 7f0b871e97f9a6b409b96425fa7760a6
+  - 2a40ec7b1f3afc2409bca974621c39a5
   - fbbfde572be13244f871a46346850edb
   importAnimation: 1
   humanDescription:
